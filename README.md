@@ -33,8 +33,9 @@ Make the object you are testing available globally.
 
 ## Tests Involve
 
-1. Testing for strings
-2. Testing for integers
+1. Testing for strings, datetimes, collections, numbers etc
+2. Unit testing Web API Controllers
+3. Unit Testing MVC Controllers
 
 ## Getting Started
 
