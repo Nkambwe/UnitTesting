@@ -1,0 +1,14 @@
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\bin\Debug\net7.0\UnitTestApp.exe
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\bin\Debug\net7.0\UnitTestApp.deps.json
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\bin\Debug\net7.0\UnitTestApp.runtimeconfig.json
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\bin\Debug\net7.0\UnitTestApp.dll
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\bin\Debug\net7.0\UnitTestApp.pdb
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.AssemblyInfoInputs.cache
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.AssemblyInfo.cs
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.csproj.CoreCompileInputs.cache
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.dll
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\refint\UnitTestApp.dll
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.pdb
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\UnitTestApp.genruntimeconfig.cache
+C:\Projects\UnitTests\UnitTestApp\UnitTestApp\obj\Debug\net7.0\ref\UnitTestApp.dll
