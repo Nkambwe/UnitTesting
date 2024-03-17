@@ -1,6 +1,6 @@
 # C# Unit Testing Project
 
-This project is a review of Unit Testing in C# based on the [YouTube tutorial by Teddy Smith](https://www.youtube.com/playlist?list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4). The project contains UnitTesting for variouse objects like strings, numbers, dataes and collections. In addtion, a review about Unit Testing of MVC web controllers and testing Web Api controllers
+This project is a review of Unit Testing in C#. The project contains UnitTesting for variouse objects like strings, numbers, dataes and collections. In addtion, a review about Unit Testing of MVC web controllers and testing Web Api controllers
 
 ## Frameworks
 
